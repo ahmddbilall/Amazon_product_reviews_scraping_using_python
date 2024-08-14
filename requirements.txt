@@ -1,0 +1,9 @@
+selenium
+pandas
+ipykernel
+bs4
+requests
+scrapy
+twisted
+scrapy-splash
+scrapy-selenium
